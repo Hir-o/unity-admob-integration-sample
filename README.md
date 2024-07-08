@@ -3,6 +3,10 @@ A unity project with AdMob mediation integration.
 
 This repository contains a sample project implementing the AdMob SDK for displaying interstitial, rewarded, and banner ads.
 
+
+https://github.com/Hir-o/unity-admob-integration-sample/assets/136099316/4ecd9536-11fe-4a63-902a-53fdfc7b0b57
+
+
 Instructions:
 
 1. Get the AdMob Unity Plugin from the official repository: https://github.com/googleads/googleads-mobile-unity/releases
