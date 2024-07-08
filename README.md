@@ -50,6 +50,7 @@ nativeId: ca-app-pub-3940256099942544/3986624511
 
 # Admob sample
 
+The sample projects uses the editor versioin: 2022.3.21f1
 The provided sample project includes a scene with the @AdsManager prefab and an example demonstrating how to load and show ads. The AdsManager.cs script is a singleton, making it easy to reference from other scripts, such as ScorePresenter.cs, which is attached to the Canvas. This script shows how ads are initialized and how events are used to increase the score after watching an ad.
 
 By following these steps, you should be able to integrate AdMob ads into your Unity project successfully.
