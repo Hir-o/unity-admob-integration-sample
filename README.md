@@ -12,19 +12,19 @@ Instructions:
 5. Locate the @AdsManager prefab in the AdMobIntegration/Prefabs directory and drag and drop the @AdsManager prefab into your scene.
 6. Select the @AdsManager prefab and add your App Id, Banner Id, Inter Id, and Rewarded Id. You can get these Id's from your Google AdMob account dashboard. Alternatively you can use the below testing ID's.
 
-appID   ca-app-pub-3940256099942544~3347511713
+appID: ca-app-pub-3940256099942544~3347511713
 
-//android
-bannerId     ca-app-pub-3940256099942544/6300978111
-interid      ca-app-pub-3940256099942544/1033173712
-rewardedId   ca-app-pub-3940256099942544/5224354917
-nativeId     ca-app-pub-3940256099942544/2247696110
+Android:
+bannerId: ca-app-pub-3940256099942544/6300978111
+interid: ca-app-pub-3940256099942544/1033173712
+rewardedId: ca-app-pub-3940256099942544/5224354917
+nativeId: ca-app-pub-3940256099942544/2247696110
 
-//ios
-bannerId     ca-app-pub-3940256099942544/2934735716
-interid      ca-app-pub-3940256099942544/4411468910
-rewardedId   ca-app-pub-3940256099942544/1712485313
-nativeId     ca-app-pub-3940256099942544/3986624511
+IOS:
+bannerId: ca-app-pub-3940256099942544/2934735716
+interid: ca-app-pub-3940256099942544/4411468910
+rewardedId: ca-app-pub-3940256099942544/1712485313
+nativeId: ca-app-pub-3940256099942544/3986624511
 
 7. Open the google mobile ads settings and add the app id.
 ![image](https://github.com/Hir-o/unity-admob-integration-sample/assets/136099316/4b3b7e3f-240f-4e1c-ad19-7dfe65919794)
