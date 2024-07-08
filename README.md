@@ -35,12 +35,15 @@ rewardedId: ca-app-pub-3940256099942544/1712485313
 nativeId: ca-app-pub-3940256099942544/3986624511
 
 7. Open the google mobile ads settings and add the app id.
+
 ![image](https://github.com/Hir-o/unity-admob-integration-sample/assets/136099316/4b3b7e3f-240f-4e1c-ad19-7dfe65919794)
 
 8. Force resolve libraries
+
 ![image](https://github.com/Hir-o/unity-admob-integration-sample/assets/136099316/6a3fec2a-bf70-48b3-98b9-cdde2db1f5ce)
 
 9. Go to player > publishing settings and add a keystore and apply these settings:
+
 ![image](https://github.com/Hir-o/unity-admob-integration-sample/assets/136099316/3ebf1343-faae-4671-a608-ebf1e7fadad9)
 
 10. Rejoice!
