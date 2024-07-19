@@ -112,7 +112,7 @@ public class AdmobAdsManager : MonoBehaviour
         if (_interstitialAd != null)
         {
             _interstitialAd.Destroy();
-            _interId = null;
+            _interstitialAd = null;
         }
 
         var adRequest = new AdRequest();
